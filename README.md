@@ -1,10 +1,20 @@
+---
+title: Nyaya Lens
+emoji: ⚖️
+colorFrom: indigo
+colorTo: yellow
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # ⚖️ Nyaya Lens
 
 ### AI Hallucination Detection — Powered by 2,500-Year-Old Indian Logic
 
 **"Pratyaksha Anumana Upamana Shabda — Every claim must prove its source."**
 
-[🚀 Live Demo](https://divinesouljoy-nyaya-lens.hf.space) · [GitHub](https://github.com/divineearthly/nyaya-lens)
+[🚀 Live Demo](https://divinesouljoy-nyaya-lens.hf.space) · [📂 GitHub](https://github.com/divineearthly/nyaya-lens)
 
 ---
 
@@ -20,7 +30,7 @@ A real-time truth verification engine built from the **Nyaya Sutras (~2nd centur
 
 | Pramana | Meaning | Example |
 |---------|---------|---------|
-| Pratyaksha | Direct Observation | "I measured pH. It was 6.8." |
+| Pratyaksha | Direct Observation | "I measured pH. 6.8." |
 | Anumana | Logical Inference | "Leaves yellow, needs water." |
 | Upamana | Comparison | "Works like a car engine." |
 | Shabda | Testimony | "Scientists say..." |
@@ -55,15 +65,13 @@ Anonymous authority | Citation without reference | Bare assertions | Absolute cl
 
 ## Quick Start
 
+```
+
 git clone https://github.com/divineearthly/nyaya-lens.git
 pip install flask
 python app.py
 
----
-
-## From Vedic AI Framework
-
-Kernel #65 of 72 Sutras + 13 Upa-Sutras
+```
 
 ---
 
@@ -74,3 +82,5 @@ MIT — Free for all use.
 ---
 
 ⭐ Star this repo for truth-enabled AI.
+
+*Satyam Eva Jayate — Truth Alone Triumphs*
