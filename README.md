@@ -4,7 +4,7 @@
 
 **"Pratyaksha Anumana Upamana Shabda — Every claim must prove its source."**
 
-[🚀 Live Demo](https://divinesouljoy-nyaya-lens.hf.space) · [📂 GitHub](https://github.com/divineearthly/nyaya-lens)
+[🚀 Live Demo](https://divinesouljoy-nyaya-lens.hf.space) · [GitHub](https://github.com/divineearthly/nyaya-lens)
 
 ---
 
